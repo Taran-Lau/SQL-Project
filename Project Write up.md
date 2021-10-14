@@ -1,5 +1,5 @@
 Write up 2
-
+----------------
 Write up regarding SQL Chinook project
 This will focus on the more questions section of the project
 I will show results of scripts and then do some analysis on the results
