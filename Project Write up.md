@@ -3,9 +3,10 @@ Write up 2
 Write up regarding SQL Chinook project
 This will focus on the more questions section of the project
 I will show results of scripts and then do some analysis on the results
-===============================================================================
-                              MORE QUESTIONS 1
-===============================================================================
+
+
+MORE QUESTIONS 1
+----------------
 How frequent are bulk buys( > $10)?
     64 occurrences
     15.53% of purchases
@@ -18,9 +19,8 @@ How frequent are normal purchases(Between $1 and $10)?
     293 occurrences
     71.12% of purchases
     
-===============================================================================
-                              MORE QUESTIONS 2
-===============================================================================
+MORE QUESTIONS 2
+----------------
 Revenue from bulk buys?
     $942.32
     40.47% of total revenue
@@ -33,9 +33,9 @@ Revenue from normal purchases?
     $1331.83
     57.19% of total revenue
 
-===============================================================================
-                              MORE QUESTIONS 3
-===============================================================================
+MORE QUESTIONS 3
+----------------
+
 Print out tables for genre preferences of bulk, single and normal buys
 
 
@@ -122,12 +122,18 @@ Print out tables for genre preferences of bulk, single and normal buys
 
 
 
+ANALYSIS
+----------------
+-Recall from Section 2 that the average a customer spends at the checkout is $5.45
 
-===============================================================================
-                              Analysis of MORE QUESTIONS 1-3
-===============================================================================
-Recall from Section 2 that the average a customer spends at the checkout is $5.45
-Although bulk buys only represent 15% of purchases, they account for 40% of total revenue.
-Although single purchases represent 13% of purchases, they only account for 2% of revenue.
-Our biggest profit generators are the bulk buys, it might be possible to generate more profit if we were able to change the buying habits of customers to increase the number of bulk buys rather than single purchases.
-Although it appears that the genre preferences between the three groups remains largely the same with Rock and Latin being the lion's share of buy count, perhaps if we could discern some differences if we used more advanced tools.
+-Although bulk buys only represent 15% of purchases, they account for 40% of total revenue.
+
+-Although single purchases represent 13% of purchases, they only account for 2% of revenue.
+
+-Our biggest profit generators are the bulk buys, it might be possible to generate more profit
+  if we were able to change the buying habits of customers to increase the number of bulk buys
+  rather than single purchases.
+  
+-Although it appears that the genre preferences between the three groups remains largely the same
+  with Rock and Latin being the lion's share of buy count, perhaps if we could discern some differences
+  if we used more advanced tools.
